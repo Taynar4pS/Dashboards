@@ -178,6 +178,7 @@ Viagens por Origem = COUNT(Fato_Viagens[airport_origin])
 ## 📁 Estrutura do Repositório
 
 Projeto-Analise_de_Viagens/
+```
 │
 ├── dataset/
 │   ├── airport.csv
@@ -188,3 +189,4 @@ Projeto-Analise_de_Viagens/
 ├── modelo_de_dados.png   # Captura do diagrama
 ├── dashboard.png         # Print do relatório
 └── Projeto_Analise_Viagens.pbix
+```
