@@ -20,22 +20,24 @@ You can explore the interactive dashboard below:
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](outputs/dashboard_overview.png)
+![Dashboard Overview](outputs/Video_games_analysis_overview.png)
+![Dashboard Overview](outputs/Publisher_performance_analysis_overview.png)
 
 ### KPI Indicators
-![KPIs](outputs/dashboard_kpis.png)
+![KPIs](outputs/KPI'S.png)
 
 ### Top Platforms by Sales
-![Top Platforms](outputs/top_platforms_sales.png)
+![Top Platforms](outputs/Top10_platforms.png)
 
 ### Publisher Performance
-![Publisher Performance](outputs/publisher_performance_analysis.png)
+![Publisher Performance](outputs/Top5_publishers.png)
 
 ### Genre Sales Distribution
-![Genre Sales](outputs/genre_sales_distribution.png)
+![Genre Sales](outputs/Sales_by_genre.png)
 
 ### Platform Sales Treemap
-![Treemap](outputs/platform_sales_treemap.png)
+![Treemap](outputs/Platform_sales_treemap.png)
+
 ---
 
 ## 📈 Key Insights
@@ -69,7 +71,7 @@ You can explore the interactive dashboard below:
 ---
 
 ## 📂 Project Structure
-"""
+'''
 video-game-sales-dashboard
 │
 ├── dataset
@@ -85,7 +87,7 @@ video-game-sales-dashboard
 │   └── games_dashboard.pbix
 │
 └── README.md
-"""
+'''
 
 ### Folder Description
 
