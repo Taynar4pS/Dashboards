@@ -71,7 +71,7 @@ You can explore the interactive dashboard below:
 ---
 
 ## 📂 Project Structure
-´´´´
+´´´
 
 video-game-sales-dashboard
 │
@@ -89,7 +89,7 @@ video-game-sales-dashboard
 │
 └── README.md
 
-´´´´
+´´´
 
 ### Folder Description
 
