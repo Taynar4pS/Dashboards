@@ -18,7 +18,7 @@ O dashboard foi desenvolvido aplicando boas práticas de **visualização de dad
 
 Você pode visualizar o dashboard interativo abaixo:
 
-<iframe title="Avaliação Curso" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmU1ODYwY2EtMWMxNy00NzcwLWFmMzYtNmJmYWU1OWQ4Y2QwIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiMmU1ODYwY2EtMWMxNy00NzcwLWFmMzYtNmJmYWU1OWQ4Y2QwIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9
 
 ---
 
