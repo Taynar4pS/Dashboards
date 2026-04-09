@@ -13,7 +13,7 @@ The dashboard allows users to identify market trends and gain insights into how 
 
 You can explore the interactive dashboard below:
 
-<iframe title="Games.v1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZGExZmFjODgtN2YyYS00OGJjLWExYWQtMmI3NjQwNGU3YTZkIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiZGExZmFjODgtN2YyYS00OGJjLWExYWQtMmI3NjQwNGU3YTZkIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9
 
 ---
 
