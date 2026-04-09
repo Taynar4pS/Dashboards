@@ -21,7 +21,7 @@ You can explore the interactive dashboard below:
 
 ### Dashboard Overview
 ![Dashboard Overview](Outputs/Video_games_analysis_overview.png)
-![Dashboard Overview](Outputs/Publisher_performance_analysis_overview.png)
+![Dashboard Overview](Outputs/Publisher_performance_analysis_ovrview.png)
 
 ### KPI Indicators
 ![KPIs](Outputs/KPI'S.png)
@@ -71,7 +71,7 @@ You can explore the interactive dashboard below:
 ---
 
 ## 📂 Project Structure
-´´´
+```
 
 video-game-sales-dashboard
 │
@@ -89,7 +89,7 @@ video-game-sales-dashboard
 │
 └── README.md
 
-´´´
+```
 
 ### Folder Description
 
