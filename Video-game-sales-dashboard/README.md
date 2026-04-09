@@ -20,14 +20,14 @@ You can explore the interactive dashboard below:
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](outputs/Video_games_analysis_overview.png)
-![Dashboard Overview](outputs/Publisher_performance_analysis_overview.png)
+![Dashboard Overview](Outputs/Video_games_analysis_overview.png)
+![Dashboard Overview](Outputs/Publisher_performance_analysis_overview.png)
 
 ### KPI Indicators
 ![KPIs](Outputs/KPI'S.png)
 
 ### Top Platforms by Sales
-![Top Platforms](Outputs/Top10_platforms.png)
+![Top Platforms](Outputs/Top10_plataforms.png)
 
 ### Publisher Performance
 ![Publisher Performance](Outputs/Top5_publishers.png)
