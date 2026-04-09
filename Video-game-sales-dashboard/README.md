@@ -72,6 +72,7 @@ You can explore the interactive dashboard below:
 
 ## 📂 Project Structure
 '''
+
 video-game-sales-dashboard
 │
 ├── dataset
@@ -87,6 +88,7 @@ video-game-sales-dashboard
 │   └── games_dashboard.pbix
 │
 └── README.md
+
 '''
 
 ### Folder Description
