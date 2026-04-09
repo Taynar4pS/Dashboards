@@ -24,19 +24,19 @@ You can explore the interactive dashboard below:
 ![Dashboard Overview](outputs/Publisher_performance_analysis_overview.png)
 
 ### KPI Indicators
-![KPIs](outputs/KPI'S.png)
+![KPIs](Outputs/KPI'S.png)
 
 ### Top Platforms by Sales
-![Top Platforms](outputs/Top10_platforms.png)
+![Top Platforms](Outputs/Top10_platforms.png)
 
 ### Publisher Performance
-![Publisher Performance](outputs/Top5_publishers.png)
+![Publisher Performance](Outputs/Top5_publishers.png)
 
 ### Genre Sales Distribution
-![Genre Sales](outputs/Sales_by_genre.png)
+![Genre Sales](Outputs/Sales_by_genre.png)
 
 ### Platform Sales Treemap
-![Treemap](outputs/Platform_sales_treemap.png)
+![Treemap](Outputs/Platform_sales_treemap.png)
 
 ---
 
