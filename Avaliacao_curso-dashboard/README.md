@@ -25,22 +25,22 @@ Você pode visualizar o dashboard interativo abaixo:
 # 📸 Prévia do Dashboard
 
 ### Visão Geral
-![Visão Geral](Outputs/Avaliacao_curso_overview.png)
+![Visão Geral](Output/Avaliacao_curso_overview.png)
 
 ### Análise de Principais Influenciadores
-![Visão Geral](Outputs/Influenciadores_overview.png)
+![Visão Geral](Output/Influenciadores_overview.png)
 
 ### Indicadores (KPIs)
-![KPIs](Outputs/KPI's.png)
+![KPIs](Output/KPI's.png)
 
 ### Distribuição das Avaliações
-![Distribuição das Avaliações](Outputs/Distribuicao_avaliacao.png)
+![Distribuição das Avaliações](Output/Distribuicao_avaliacao.png)
 
 ### Nível de Conhecimento dos Participantes
-![Nível de Conhecimento](Outputs/Nivel_de_conhecimento.png)
+![Nível de Conhecimento](Output/Nivel_de_conhecimento.png)
 
 ###Tooltip
-![Tooltip](Outputs/tooltip.png)
+![Tooltip](Output/tooltip.png)
 
 ---
 
