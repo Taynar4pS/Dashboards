@@ -28,7 +28,7 @@ Você pode visualizar o dashboard interativo abaixo:
 ![Visão Geral](Output/Avaliacao_curso_overview.png)
 
 ### Análise de Principais Influenciadores
-![Visão Geral](Output/Influenciadores_overview.png)
+![Visão Geral](Output/Inflluenciadores_overview.png)
 
 ### Indicadores (KPIs)
 ![KPIs](Output/KPI's.png)
@@ -39,7 +39,7 @@ Você pode visualizar o dashboard interativo abaixo:
 ### Nível de Conhecimento dos Participantes
 ![Nível de Conhecimento](Output/Nivel_de_conhecimento.png)
 
-###Tooltip
+### Tooltip
 ![Tooltip](Output/tooltip.png)
 
 ---
