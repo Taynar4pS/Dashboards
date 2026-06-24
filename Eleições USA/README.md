@@ -10,8 +10,9 @@ Além da construção do dashboard, foram aplicadas etapas de tratamento de dado
 
 ## 📷 Dashboard
 
-> Insira aqui uma imagem ou GIF do dashboard.
-
+<p align="center">
+  <img src="Outputs/EleiçõesEUA.gif" alt="Dashboard de Análise de Eleições" width="900">
+</p>
 ---
 
 ## 🎯 Objetivos
