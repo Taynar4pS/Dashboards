@@ -13,6 +13,7 @@ Além da construção do dashboard, foram aplicadas etapas de tratamento de dado
 <p align="center">
   <img src="Outputs/EleiçõesEUA.gif" alt="Dashboard de Análise de Eleições" width="900">
 </p>
+
 ---
 
 ## 🎯 Objetivos
